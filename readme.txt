@@ -1,0 +1,2 @@
+Hello, I have finish the make file, so it can use "make" to compile and run the code.
+It have finish all the part, the bg, bgkill, bglist, bgstop,bgstart,and pstat. All of them works well, and it have error handling, at any time you enter wrong pid it will show you that is a wrong pid. 
